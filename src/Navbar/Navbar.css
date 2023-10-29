@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgb(223, 222, 222);
+  padding: 20px 50px;
+}
+.navbar h1 {
+  font-size: 24px;
+  letter-spacing: 1px;
+}
+.navbar ul {
+  list-style: none;
+  display: flex;
+}
+.navbar ul li {
+  padding: 0 15px;
+}
+@media screen and (max-width: 796px) {
+  .navbar {
+    justify-content: center;
+  }
+  .navbar h1 {
+    font-size: 26px;
+  }
+  .navbar ul {
+    display: none;
+  }
+}

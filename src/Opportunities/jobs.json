@@ -1,0 +1,275 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Machine Learning Engineer",
+      "description": "Join our team as a Machine Learning Engineer and work on cutting-edge AI projects.",
+      "DeptType": "Engineering",
+      "EmpType": "Internship",
+      "Location": "Remote",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Web Developer",
+      "description": "Looking for a web developer to join our startup team and build innovative web applications.",
+      "DeptType": "Engineering",
+      "EmpType": "Internship",
+      "Location": "In-office",
+      "author": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "title": "Digital Marketing Specialist",
+      "description": "Seeking a Digital Marketing Specialist to drive our marketing campaigns to the next level.",
+      "DeptType": "Marketing",
+      "EmpType": "Full-Time",
+      "Location": "In-office",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "description": "Looking for a Data Scientist to analyze large datasets and extract valuable insights.",
+      "DeptType": "Data Science",
+      "EmpType": "Full-Time",
+      "Location": "In-office",
+      "author": "Robert Brown"
+    },
+    {
+      "id": 5,
+      "title": "iOS App Developer",
+      "description": "Join our mobile app development team to create exciting iOS applications.",
+      "DeptType": "Mobile App Development",
+      "EmpType": "Contract",
+      "Location": "Remote",
+      "author": "Sarah Williams"
+    },
+    {
+      "id": 6,
+      "title": "Office Manager",
+      "description": "We are looking for an experienced Office Manager to organize and coordinate office operations and procedures.",
+      "DeptType": "Administration",
+      "EmpType": "Full-Time",
+      "Location": "In-office",
+      "author": "Robert Smith"
+    },
+    {
+      "id": 7,
+      "title": "Executive Assistant",
+      "description": "We are seeking an Executive Assistant to provide high-level administrative support to our executives.",
+      "DeptType": "Administration",
+      "EmpType": "Full-Time",
+      "Location": "In-office",
+      "author": "Sarah Davis"
+    },
+    {
+      "id": 8,
+      "title": "Data Entry Clerk",
+      "description": "We have an opening for a Data Entry Clerk to enter data into our systems and databases.",
+      "DeptType": "Administration",
+      "EmpType": "Part-Time",
+      "Location": "Remote",
+      "author": "Michael Johnson"
+    },
+    {
+      "id": 9,
+      "title": "Receptionist",
+      "description": "We are looking for a Receptionist to manage our front desk on a daily basis and perform a variety of administrative tasks.",
+      "DeptType": "Administration",
+      "EmpType": "Full-Time",
+      "Location": "In-office",
+      "author": "Emily White"
+    },
+    {
+      "id": 10,
+      "title": "HR Coordinator",
+      "description": "We are hiring an HR Coordinator to manage various HR functions, including recruitment, onboarding, and employee relations.",
+      "DeptType": "Human Resources",
+      "EmpType": "Full-Time",
+      "Location": "Remote",
+      "author": "David Lee"
+    },
+   
+        {
+          "id": 11,
+          "title": "Frontend Developer",
+          "description": "We are looking for a Frontend Developer to work on our web applications.",
+          "DeptType": "Engineering",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Ava Wilson"
+        },
+        {
+          "id": 12,
+          "title": "Sales Manager",
+          "description": "Join our team as a Sales Manager and lead our sales department.",
+          "DeptType": "Sales",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "William Davis"
+        },
+        {
+          "id": 13,
+          "title": "Customer Support Specialist",
+          "description": "Looking for a Customer Support Specialist to assist our customers.",
+          "DeptType": "Customer Support",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Emma Harris"
+        },
+        {
+          "id": 14,
+          "title": "Digital Marketing Intern",
+          "description": "We have an opening for a Digital Marketing Intern to support our marketing campaigns.",
+          "DeptType": "Marketing",
+          "EmpType": "Internship",
+          "Location": "Remote",
+          "author": "Ethan Johnson"
+        },
+        {
+          "id": 15,
+          "title": "HR Specialist",
+          "description": "We are hiring an HR Specialist to handle various HR functions.",
+          "DeptType": "Human Resources",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Sophia Anderson"
+        },
+        {
+          "id": 16,
+          "title": "Web Developer",
+          "description": "Join our team as a Web Developer and create innovative web solutions.",
+          "DeptType": "Engineering",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Noah Wilson"
+        },
+        {
+          "id": 17,
+          "title": "Data Analyst",
+          "description": "Looking for a Data Analyst to analyze and interpret data.",
+          "DeptType": "Data Science",
+          "EmpType": "Full-Time",
+          "Location": "Remote",
+          "author": "Olivia Johnson"
+        },
+        {
+          "id": 18,
+          "title": "iOS App Developer",
+          "description": "Join our iOS App Development team to create mobile applications.",
+          "DeptType": "Mobile App Development",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Liam Brown"
+        },
+        {
+          "id": 19,
+          "title": "Office Coordinator",
+          "description": "We are seeking an Office Coordinator to support office operations.",
+          "DeptType": "Administration",
+          "EmpType": "Part-Time",
+          "Location": "In-office",
+          "author": "Lucas Davis"
+        },
+        {
+          "id": 20,
+          "title": "Marketing Specialist",
+          "description": "Join our Marketing team and assist with marketing campaigns.",
+          "DeptType": "Marketing",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Mia Smith"
+        },
+        {
+          "id": 21,
+          "title": "Sales Representative",
+          "description": "We are hiring a Sales Representative to promote our products.",
+          "DeptType": "Sales",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Henry Wilson"
+        },
+        {
+          "id": 22,
+          "title": "Customer Support Associate",
+          "description": "Join our Customer Support team to assist customers with their inquiries.",
+          "DeptType": "Customer Support",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Amelia Brown"
+        },
+        {
+          "id": 23,
+          "title": "Marketing Intern",
+          "description": "We have an opening for a Marketing Intern to support our marketing initiatives.",
+          "DeptType": "Marketing",
+          "EmpType": "Internship",
+          "Location": "Remote",
+          "author": "James Smith"
+        },
+        {
+          "id": 24,
+          "title": "HR Assistant",
+          "description": "We are hiring an HR Assistant to provide support with HR functions.",
+          "DeptType": "Human Resources",
+          "EmpType": "Full-Time",
+          "Location": "Remote",
+          "author": "Sophie Wilson"
+        },
+        {
+          "id": 25,
+          "title": "Frontend Developer",
+          "description": "Looking for a Frontend Developer to create user-friendly web interfaces.",
+          "DeptType": "Engineering",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Jackson Davis"
+        },
+        {
+          "id": 26,
+          "title": "Data Engineer",
+          "description": "We have an opening for a Data Engineer to design and maintain data architecture.",
+          "DeptType": "Data Science",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Aria Johnson"
+        },
+        {
+          "id": 27,
+          "title": "Mobile App Developer",
+          "description": "Join our Mobile App Development team to create mobile applications for Android and iOS.",
+          "DeptType": "Mobile App Development",
+          "EmpType": "Full-Time",
+          "Location": "Remote",
+          "author": "Benjamin Smith"
+        },
+        {
+          "id": 28,
+          "title": "Office Assistant",
+          "description": "We are hiring an Office Assistant to provide administrative support in a fast-paced office environment.",
+          "DeptType": "Administration",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "Ella Davis"
+        },
+        {
+          "id": 29,
+          "title": "Marketing Coordinator",
+          "description": "Join our Marketing team as a Coordinator and support marketing campaigns.",
+          "DeptType": "Marketing",
+          "EmpType": "Full-Time",
+          "Location": "In-office",
+          "author": "William Wilson"
+        },
+        {
+          "id": 30,
+          "title": "Sales Associate",
+          "description": "We have an opening for a Sales Associate to assist our sales team.",
+          "DeptType": "Sales",
+          "EmpType": "Full-Time",
+          "Location": "Remote",
+          "author": "Lily Smith"
+        }
+      ]
+}
